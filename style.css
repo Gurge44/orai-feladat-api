@@ -1,0 +1,40 @@
+body {
+    color: lightgrey !important;
+    background-color: rgb(50,50,50);
+}
+
+h1 {
+    text-align: center;
+}
+
+.plat {
+    width: 20px;
+}
+
+#small {
+    color: lightgrey;
+    font-size: 0.8em;
+}
+
+#loading {
+    margin: auto;
+    text-align: center;
+}
+
+.card {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.col-2 {
+    margin: -200px;
+}
+
+#statisticOutput {
+    text-align: center;
+}
+
+#form {
+    text-align: center;
+    margin: auto;
+}
